@@ -1,0 +1,2 @@
+Something appears to be wrong with display of lingtypology map and everything below it in my .ipynb notebook (everything is saved in raw text, though).
+Notebook should be trusted to view it, you can see everything by this link: https://nbviewer.org/github/romtar2000/romtartax/blob/main/Final_project.ipynb
