@@ -1,0 +1,26 @@
+ID	Gender	Native language	Kinship to Russian	Nationality	Linguistic Competence Level	Place of learning	Way of learning	Reasons for migration	AcqStress	AcqNomCase	AcqNumCase	AcqConjugation	AcqAspect	AcqMotion	AcqGender	AcqPhonetics	AcqLexic	AcqSyntax	AcqStylistics	AcqScript
+af1	f	Persian (Dari)	Indo-European	Afghanistan	English	Russia	academic	academic	yes	yes	no	no	no	no	no	no	no	no	no	no
+sy1	m	Arabic	none	Syria		Russia	informal	non-academic	no	yes	yes	no	no	no	no	no	yes	no	no	no
+it1	f	Italian	Indo-European	Italy	English	abroad	academic	academic	no	no	yes	no	yes	no	no	no	yes	no	no	no
+sk1	m	Slovakian	Slavonic	Slovakia	English, Czech	abroad	academic	academic	yes	no	no	no	no	no	no	no	no	no	no	no
+bg1	m	Bulgarian	Slavonic	Bulgaria	English	abroad	academic	academic	no	yes	yes	yes	no	no	no	no	no	no	no	no
+tj1	m	Tajik (Persian)	Indo-European	Uzbekistan	Uzbek, Turkmen, Azerbaijani	abroad	academic	non-academic	no	yes	yes	no	no	no	yes	no	no	yes	no	no
+cn1	m	Chinese	none	China	English	abroad	academic	academic	no	no	no	no	no	no	no	no	yes	no	no	no
+cv1	f	Copa Verdian Kriulu	Indo-European	Copa Verde	Portuguese, English, Spanish, French	Russia	academic	academic	no	yes	yes	yes	no	no	no	no	no	no	no	no
+cm1	m	Bulu	none	Cameroon	English, French	Russia	academic	academic	no	yes	yes	no	no	no	no	yes	no	no	yes	no
+us1	f	English	Indo-European	USA		abroad	academic	academic	no	yes	yes	no	no	no	no	no	no	no	no	yes
+hu1	f	Hungarian	none	Hungary	English	abroad	academic	academic	no	yes	yes	no	no	yes	yes	no	no	no	no	no
+hu2	m	Hungarian	none	Hungary	English, German	abroad	academic	academic	no	no	no	no	no	no	no	no	yes	no	no	no
+rs1	f	Serbian	Slavonic	Serbia	English, Norwegian	Russia	academic	academic	no	no	no	no	no	yes	no	no	no	no	no	no
+rs2	m	Serbian	Slavonic	Serbia	English	abroad	academic	academic	yes	no	no	no	no	yes	no	no	no	no	no	no
+tk1	m	Turkmen	none	Turkmenistan	English, Turkish	Russia	academic	academic	no	no	no	no	no	no	no	no	no	no	no	no
+lk1	f	Sinhalese	Indo-European	Sri Lanka	English	Russia	academic	academic	no	no	no	no	no	yes	no	no	no	no	no	no
+tr1	m	Turkish	none	Turkey	English	abroad	academic	academic	no	yes	yes	no	no	no	no	no	no	no	no	no
+tz1	f	Swahili	none	Tanzania	English	Russia	academic	academic	no	yes	yes	no	no	no	no	no	no	no	no	no
+mn1	m	Mongolian	none	Mongolia		Russia	academic	academic	no	no	no	no	no	no	no	no	no	yes	no	no
+st1	m	Sao Tome Creole	Indo-European	Sao Tome and Prinsipi	English, German, Portuguese	Russia	academic	academic	no	yes	yes	yes	no	no	no	no	no	no	no	no
+mm1	m	Myanmar	none	Myanma		Russia	academic	academic	no	no	no	no	no	no	no	yes	yes	no	no	no
+tj2	f	Tajik (Persian)	Indo-European	Tajikistan	English	Russia	informal	non-academic	no	yes	yes	yes	no	no	no	no	no	no	no	no
+kg1	m	Kyrgyz	none	Kyrgyzstan	English, Turkish	abroad	academic	academic	no	no	no	no	no	no	no	no	no	no	no	no
+shgn1	f	Shughni	Indo-European	Tajikistan	Tajik, English	abroad	academic	academic	no	no	no	no	no	no	yes	no	no	no	no	no
+th1	f	Thai	none	Thailand	English	abroad	academic	academic	no	no	no	no	yes	yes	no	yes	no	no	no	no
